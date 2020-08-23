@@ -4,7 +4,7 @@
 
 ### I'm a Developer, and Content Creator!
 
-- 🔭 I’m currently working on SwiftUI, Building reusable extensions,iOS Build Systems enhancements, 
+- 🔭 I’m currently working on SwiftUI, Building reusable extensions,iOS Build Systems enhancements. 
 - ⚡  Open Source Contributor to [CardParts]( https://github.com/intuit/CardParts) and [StepperView](https://badrinathvm.github.io/StepperView/)
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
