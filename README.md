@@ -32,6 +32,17 @@ Here are some ideas to get you started:
 
 <br />
 
+### 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Sharing UI Tests via Cocoapods](https://medium.com/@badrinathvm/sharing-uitests-via-cocoapods-583c6b9f3cb2)
+- [Step Indicator in SwiftUI](https://medium.com/@badrinathvm/step-indicator-in-swiftui-104e0486d133)
+- [Progress Bar Animation in SwiftUI](https://medium.com/@badrinathvm/progress-animation-in-swiftui-15b067cc3993)
+- [Packing UIViewController in SwiftUI](https://medium.com/@badrinathvm/packing-uikits-viewcontroller-in-swiftui-327e3180ad7f)
+- [How to implement Bottom Sheet](https://medium.com/@badrinathvm/bottom-sheet-in-swift-bde66293412)
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://medium.com/@badrinathvm)
 
 
 [twitter]: https://twitter.com/badrivm
