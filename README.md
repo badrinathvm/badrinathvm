@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, I am Badarinath 👋
+
+
+### I'm a Husband, Developer, and Content Creator!
+
+- 🔭 I’m currently working on SwiftUI, Building reusable extensions, iOS Build Systems enhancements.
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2020 Goals: Contribute more to Open Source projects
 
 <!--
 **badrinathvm/badrinathvm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +21,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="badrivm | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="badarinath | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
+
+[twitter]: https://twitter.com/badrivm
+[website]: https://medium.com/@badrinathvm
+[linkedin]: https://www.linkedin.com/in/badarinath-venkatnarayansetty-abb79146/
