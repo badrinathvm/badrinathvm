@@ -1,7 +1,7 @@
 ### Hi there, I am Badarinath 👋
 
 
-### I'm a Husband, Developer, and Content Creator!
+### I'm a Developer, and Content Creator!
 
 - 🔭 I’m currently working on SwiftUI, Building reusable extensions, iOS Build Systems enhancements.
 - 👯 I’m looking to collaborate with other content creators
