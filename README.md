@@ -5,9 +5,9 @@
 ### I'm a Developer, and Content Creator!
 
 - 🔭 I’m currently working on SwiftUI, Building reusable extensions,iOS Build Systems enhancements. 
-- ⚡  Open Source Contributor to [CardParts]( https://github.com/intuit/CardParts) and [StepperView](https://badrinathvm.github.io/StepperView/)
+- ⚡  Open Source Contributor to [CardParts]( https://github.com/intuit/CardParts) , [StepperView](https://badrinathvm.github.io/StepperView/), [StackCardView](https://badrinathvm.github.io/StackCardView/)
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects in SwiftUI
+- 🥅 2024 Goals: Contribute more to Open Source projects in SwiftUI
 
 <!--
 **badrinathvm/badrinathvm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
